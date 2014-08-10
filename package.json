@@ -1,0 +1,15 @@
+{
+  "name": "http-fortune",
+  "version": "1.0.0",
+  "description": "Adds a random fortune to the HTTP header",
+  "main": "index.js",
+  "keywords": [
+    "fortune",
+    "useless",
+    "entertainment",
+    "header",
+    "random"
+  ],
+  "author": "jenrik",
+  "license": "GPL"
+}
