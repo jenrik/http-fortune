@@ -1,6 +1,6 @@
 HTTP Fortune
 ============
-HTTP Fortune adds the fortune header to all HTTP responses.
+HTTP Fortune adds random fortunes to all HTTP response headers. Make it fun for the person who wanna dig through your servers HTTP traffic.
 
 ### Requirements
 [Node.js](http://nodejs.org/) and a [Express](http://expressjs.com/) compatible application
