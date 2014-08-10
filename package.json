@@ -10,6 +10,23 @@
     "header",
     "random"
   ],
-  "author": "jenrik",
-  "license": "GPL"
+  "homepage": "https://github.com/jenrik/http-fortune",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jenrik/http-fortune.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jenrik/http-fortune/issues"
+  },
+  "author": {
+    "name": "jenrik",
+    "email": "jacob@jener.dk",
+    "url": "http://jener.dk/"
+  }
+  "licenses": [
+    {
+      "type": "GPL v3",
+      "url": "https://raw.githubusercontent.com/jenrik/http-fortune/master/LICENSE"
+    }
+  ]
 }
